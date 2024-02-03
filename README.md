@@ -22,12 +22,6 @@ During this fourth block, there is a short quiz on the Ruby module. It was desig
 
 ## Advanced part
 
-The two last blocks of the Ruby module deal with more advanced notions. These notions are not essential. All students should attend the lecture but, for the challenges, the class is split between:
-- A "Reboot" group who will rehearse core notions (variables, methods, arrays, hashes and iterators) practicing on new challenges.
-- The rest of the class will practice these advanced notions on dedicated challenges.
-
-If you don't feel confident about the core notions, join the Reboot group! It's an opportunity to strengthen what really matters for the rest of the bootcamp.
-
 ### `05 Regular Expressions`
 
 Play with regular expressions, a.k.a regex, which represents string patterns.
